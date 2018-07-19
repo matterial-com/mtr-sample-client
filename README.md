@@ -1,2 +1,3 @@
 # mtr-sample-client
-Sample client to show how to implement a simple rest client for the matterial-app.
+
+Sample implemenation of a java-based rest-client for the matterial-app.
